@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Choropleth",
+      "hasCanvas": false,
+      "bodyTextLen": 278,
+      "bodyTextHash": "03e64b158eaa8b90cb90200002f06f35c7b37cff2cbc36a711bd3a44681d5240",
+      "bodyTextPrefix": "Choropleth Offline world · drag to spin · pinch or buttons to zo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Choropleth",
+      "hasCanvas": false,
+      "bodyTextLen": 278,
+      "bodyTextHash": "03e64b158eaa8b90cb90200002f06f35c7b37cff2cbc36a711bd3a44681d5240",
+      "bodyTextPrefix": "Choropleth Offline world · drag to spin · pinch or buttons to zo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

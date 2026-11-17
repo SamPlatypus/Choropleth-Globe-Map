@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.samplatypus.offline3dchoroplethglobe.app-mergeReleaseResources-5:/values-gu/values-gu.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/8.11.1/transforms/b208fc1fa734e0528687ea61bd7ccbb7/transformed/core-1.1.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
